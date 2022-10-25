@@ -32,6 +32,8 @@
 
 [![image](https://user-images.githubusercontent.com/108445259/196878489-1a7826da-ece5-4892-99ef-567f97962e04.png)](https://user-images.githubusercontent.com/108445259/196878489-1a7826da-ece5-4892-99ef-567f97962e04.png) \2. New Pull request 클릭
 
-[![image](https://user-images.githubusercontent.com/108445259/196878597-555353d9-f318-4b48-a48f-4b750a4300a0.png)](https://user-images.githubusercontent.com/108445259/196878597-555353d9-f318-4b48-a48f-4b750a4300a0.png) \3. 업로드를 했다면 위 버튼이 활성화되어 클릭 후
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/108445259/197717229-4cbe5252-7f44-4369-93e7-91608ed62f2f.png">\3.빨간 부분 클릭후 본인 브랜치로 바꾼후 아래 버튼 클릭
 
-[![image](https://user-images.githubusercontent.com/108445259/196879031-1afd9b23-2295-4986-a732-cbb746be5379.png)](https://user-images.githubusercontent.com/108445259/196879031-1afd9b23-2295-4986-a732-cbb746be5379.png) \4. Commit 내용과 같이 작성후 제출
+[![image](https://user-images.githubusercontent.com/108445259/196878597-555353d9-f318-4b48-a48f-4b750a4300a0.png)](https://user-images.githubusercontent.com/108445259/196878597-555353d9-f318-4b48-a48f-4b750a4300a0.png) \4. 업로드를 했다면 위 버튼이 활성화되어 클릭 후
+
+[![image](https://user-images.githubusercontent.com/108445259/196879031-1afd9b23-2295-4986-a732-cbb746be5379.png)](https://user-images.githubusercontent.com/108445259/196879031-1afd9b23-2295-4986-a732-cbb746be5379.png) \5. Commit 내용과 같이 작성후 제출
