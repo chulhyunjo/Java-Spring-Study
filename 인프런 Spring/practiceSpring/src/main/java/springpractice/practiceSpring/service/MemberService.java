@@ -1,5 +1,6 @@
 package springpractice.practiceSpring.service;
 
+import org.springframework.stereotype.Service;
 import springpractice.practiceSpring.domain.Member;
 import springpractice.practiceSpring.repository.MemberRepository;
 import springpractice.practiceSpring.repository.MemoryMemberRepository;
@@ -8,6 +9,8 @@ import java.util.List;
 import java.util.Optional;
 
 // crtl + shift + T
+
+@Service
 public class MemberService {
 
     private final MemberRepository memberRepository;
