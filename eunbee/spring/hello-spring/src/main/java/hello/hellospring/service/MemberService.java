@@ -9,13 +9,13 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-@Service //component라는 어노테이션이 있음
+//@Service //component라는 어노테이션이 있음
 public class MemberService {
 
     private final MemberRepository memberRepository;
 
     // dependency Injection (DI) 의존관계 주입
-    @Autowired
+//    @Autowired
     public MemberService(MemberRepository memberRepository){
         this.memberRepository = memberRepository;
     }
